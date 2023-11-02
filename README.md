@@ -69,6 +69,9 @@ matplotlib
 scikit-learn  
 Installation : You can install the required libraries using pip  
 
-## **Author**
-- Marwa Osman     
-- marwaosman9975@gmail.com  
+## **AUTHOR**
+- Marwa Osman
+- marwaosman9975@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/marwa-osman-00190b222/)
+- [GitHub](https://github.com/marwa9975)
+
