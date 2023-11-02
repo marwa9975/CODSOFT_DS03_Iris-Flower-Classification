@@ -1,6 +1,5 @@
 
 # **Iris Flower Classification**
-
 ![image](https://i.pinimg.com/736x/cf/e7/70/cfe77077287cf0e751d7d924c9c22fac.jpg)
 
 ## **Project Overview**
@@ -60,16 +59,16 @@ Demonstrated strong model performance and generalization.
 * 'setosa' is the most distinguishable species.
 
 ## Getting Started  
-Prerequisites
-To run this project, you need to have Python and the following libraries installed:
+Prerequisites   
+To run this project, you need to have Python and the following libraries installed:  
 
-pandas
-numpy
-seaborn
-matplotlib
-scikit-learn
-Installation
+pandas    
+numpy   
+seaborn  
+matplotlib  
+scikit-learn  
+Installation : You can install the required libraries using pip  
 
 ## **Author**
-- Marwa Osman
-- marwaosman9975@gmail.com
+- Marwa Osman     
+- marwaosman9975@gmail.com  
