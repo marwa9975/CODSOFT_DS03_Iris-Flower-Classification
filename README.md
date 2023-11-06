@@ -35,15 +35,15 @@ The dataset includes the following columns:
 * petal_width: Petal width in centimeters (numerical)
 * species: The target variable, indicating the Iris species (categorical - 'setosa,' 'versicolor,' 'virginica')
 
-## **Modeling***
+## **Modeling**
 Models Used:  
 Model 1: Logistic Regression   
 Model 2: Support Vector Classifier (SVC)   
 Model 3: Random Forest  
 ### Model Comparison
 Compared the three models in terms of accuracy and performance on the test data.    
-Identified Logistic Regression and SVC as top-performing   models and selected Logistic Regression for further tuning.    
-Model 4: Hyperparameter Tuning of Logistic Regression Model
+Identified Random Forest top-performing   models and selected Random Forest for further tuning.    
+Model 4: Tuned Random Forest Model
 ### Model Evaluation
 Evaluated the tuned Logistic Regression model on the training and test datasets.   
 Calculated accuracy, precision, recall, F1-scores, and confusion matrices.   
@@ -53,7 +53,7 @@ Demonstrated strong model performance and generalization.
 ## **Conclusions** 
 * Model Selection: The project recommends choosing either Logistic Regression or Support Vector Classifier (SVC) for the final model, as both outperformed Random Forest in terms of test accuracy.
 * Hyperparameter Tuning: Hyperparameter tuning, especially for the Logistic Regression model, is advised to enhance accuracy, precision, and recall.
-* 'versicolor' is the most frequently occurring species in the dataset, followed by ''virginica,' and  'setosa'. This indicates that 'versicolor' specimens are the most abundant, while 'setosa' specimens are the least common among the Iris flowers
+* 'versicolor' is the most frequently occurring species in the dataset, followed by 'setosa' and 'virginica'. This indicates that 'versicolor' specimens are the most abundant, while 'virginica' specimens are the least common among the Iris flowers
 * 'Setosa' species exhibits a clear distinction from the other two species in terms of sepal length and sepal width
 * 'setosa' has the narrowest petal widths, 'versicolor' falls in the mid-range, and 'virginica' has the widest petals.
 * 'setosa' is the most distinguishable species.
