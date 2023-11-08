@@ -57,6 +57,9 @@ Demonstrated strong model performance and generalization.
 * 'Setosa' species exhibits a clear distinction from the other two species in terms of sepal length and sepal width
 * 'setosa' has the narrowest petal widths, 'versicolor' falls in the mid-range, and 'virginica' has the widest petals.
 * 'setosa' is the most distinguishable species.
+## **Next Steps**
+* Collection of more Data
+* Deployment
 
 ## Getting Started  
 Prerequisites   
